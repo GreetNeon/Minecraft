@@ -1,4 +1,4 @@
 # Minecraft
-Feel free to use any code, and or pictures within this project
-
 I do not own any legal rights over sounds or images used
+
+Very Heavily inspired by https://www.youtube.com/watch?v=DHSRaVeQxIk
